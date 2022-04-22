@@ -6,7 +6,7 @@
 
           <b-col name="icon-exits">
             <div class="icons">
-              <a href="https://github.com/WokFriedE" target="_blank">
+              <a href="https://github.com/" target="_blank">
                 <img src="../../assets/socials/github.png" class="icon" />
               </a>
               <a href="#" target="_blank">
@@ -33,7 +33,7 @@
               <b-col>
                 <ul class="contact-info" style="text-align: left;">
                   <li style="font-size: 105%; font-style: bold">Email:</li>
-                  <li style="font-size: 90%">ekh3@njit.edu</li>
+                  <li style="font-size: 90%">@gmail</li>
                 </ul>
               </b-col>
             </b-row>
@@ -41,7 +41,7 @@
         </b-row>
 
       </b-container>
-      <h6>By: Ethan H.</h6>
+      <h6>By: EH.</h6>
     </div>
   </footer>
 </template>

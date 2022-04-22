@@ -5,7 +5,7 @@
         <b-row>
           <b-col name="icon-exits">
             <div class="icons">
-              <a href="https://github.com/WokFriedE" target="_blank">
+              <a href="https://github.com/" target="_blank">
                 <img src="../../assets/socials/github.png" class="icon" />
               </a>
               <a href="#" target="_blank">
@@ -25,11 +25,11 @@
               <ul class="contact-info">
                 <li>
                   <a>Email: </a>
-                  <a href="">hi@njit.edu</a>
+                  <a href="">hi@google.com</a>
                 </li>
                 <li>
                   <a>Discord: </a>
-                  <a href="">snipe#4444</a>
+                  <a href="">g#4444</a>
                 </li>
               </ul>
             </div>
@@ -37,7 +37,7 @@
         </b-row>
 
       </b-container>
-      <h6>By: Ethan H.</h6>
+      <h6>By: EH.</h6>
     </div>
   </footer>
 </template>

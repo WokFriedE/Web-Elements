@@ -7,14 +7,14 @@
             <h5>Discord</h5>
             <b-col>
               <ul class="contact-info" style="justify-content: center; text-align:center;">
-                <li style="font-size: 90%">snipe#4444</li>
+                <li style="font-size: 90%">o#4444</li>
               </ul>
             </b-col>
           </b-col>
 
           <b-col name="icon-exits">
             <div class="icons">
-              <a href="https://github.com/WokFriedE" target="_blank">
+              <a href="https://github.com/" target="_blank">
                 <img src="../../assets/socials/github.png" class="icon" />
               </a>
               <a href="#" target="_blank">
@@ -30,13 +30,13 @@
             <h5>Email</h5>
             <b-row>
               <b-col class="contact-info" style="justify-content: center; text-align:center;">
-                <a style="font-size: 90%" href="mailto: ekh3@njit.edu">hi@njit.edu</a>
+                <a style="font-size: 90%" href="mailto: ekh3@njit.edu">hi@google.com</a>
               </b-col>
             </b-row>
           </b-col>
         </b-row>
       </b-container>
-      <h6>By: Ethan H.</h6>
+      <h6>By: EH.</h6>
     </div>
   </footer>
 </template>
